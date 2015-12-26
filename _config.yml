@@ -1,0 +1,14 @@
+layout_spectrum: 0.6129032
+color:
+  saturation: 1
+  brandStrength: 0.7580645
+  lightness: 0.2724014
+  brandColors:
+    - '#1F1E1F'
+    - '#D7E0E0'
+    - '#898680'
+    - '#C7BDAA'
+    - '#5D5C5B'
+  rhythmicContrast: 1
+typography_spectrum: 0.2956989
+name: Konstant
